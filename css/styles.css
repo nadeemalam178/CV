@@ -1,0 +1,28 @@
+body {
+  background-color: #B8FFF9;
+}
+h1{
+  color: #5463FF;
+  font-family: cursive;
+}
+h3{
+  color: #5463FF;
+  font-family: cursive;
+}
+p{
+  font-family: monospace;
+}
+table{
+  font-family:serif;
+
+}
+label{
+  font-family: Courier New;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
